@@ -1,0 +1,5 @@
+{
+    "board": "INEX_AVR:avr:ATX2M",
+    "sketch": "atx-robot.ino",
+    "programmer": "atmel_ice"
+}
