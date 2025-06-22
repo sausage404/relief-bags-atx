@@ -1,5 +1,6 @@
 # Line Following Delivery Robot Control System
-Add data board ATX2 from [ArduinoAVR](https://github.com/INEXdev/ArduinoAVR/raw/main/package_inex_avr_index.json)
+Add data board ATX2 from https://github.com/INEXdev/ArduinoAVR/raw/main/package_inex_avr_index.json
+
 A control system for an ATX2-based line following robot with package delivery capabilities.
 
 ## Features
